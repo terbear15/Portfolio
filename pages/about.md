@@ -1,9 +1,9 @@
 ---
 layout: about
-title: About Me 
-Terry Xu
-Graduate Student
-Master of Urban Spatial Analytics
+title: About Me
+description: Terry Xu
+subtitle: Graduate Student
+program: Master of Urban Spatial Analytics
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
