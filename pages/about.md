@@ -1,6 +1,9 @@
 ---
 layout: about
-title: About Me
+title: About Me 
+Terry Xu
+Graduate Student
+Master of Urban Spatial Analytics
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
