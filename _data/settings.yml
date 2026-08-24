@@ -7,13 +7,8 @@ logo: '/assets/img/musa-logo.png'
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
-<<<<<<< HEAD
-intro_title: The New Personal Mission 10-word Summary
-intro_text: |
-=======
 intro_title: The Personal Mission 10-word Summary
 intro_text:
->>>>>>> a5915988d47d9b2abeacfca31f9f77a592a60593
   A brief couple of sentences describing your personal mission statement goes
   here. This is a great place to very succinctly tell a visitor what drives you
   and what you're passionate about.
